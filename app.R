@@ -278,7 +278,7 @@ ui <- fluidPage(
     column(12,
            tabsetPanel(
              tabPanel("Demographics",
-                      h4("Respondent Demographics", class="section-heading"),
+                      h4("Classification of Demographics", class="section-heading"),
                       selectInput("demographic_var", "Select Demographic Variable to Display:",
                                   choices = c("Gender", "Age", "Educational Qualification", "Occupation", "Monthly Income")),
                       fluidRow(
