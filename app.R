@@ -271,7 +271,7 @@ ui <- fluidPage(
   
   div(class = "title-panel",
       h1("FMCG Consumer Behavior: Data Analysis"),
-      h4("A Study of Branding and Packaging Influence in Ernakulam", class = "subtitle")
+      h4("A Study of Branding and Packaging Influence in Bengaluru")
   ),
   
   fluidRow(

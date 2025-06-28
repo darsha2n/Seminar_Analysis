@@ -1,0 +1,10 @@
+name: myseminarapp
+title:
+username: agroagrarian
+account: agroagrarian
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14995247
+bundleId: 10523448
+url: https://agroagrarian.shinyapps.io/myseminarapp/
+version: 1
